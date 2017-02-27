@@ -37,26 +37,31 @@ For Example:
 7. Show ad count information under notes box.
 
 **Steps to select category:**
+
 1. Press `Ctrl + i` to open plugin.
 2. Press `Tab` to navigate over L1 categories and press `Enter` to select L1 category.
 3. Again press `Tab` to navigate over L2 categories and press `Enter` to autofill L2 into note box.
 
 **Steps to create custom notes**
+
 1. Press `Ctrl + i` to open plugin.
 2. Scroll to bottom of plugin and click on `Settings/Add Notes`
 3. Write and create notes.
 
 **Steps to jump to admin ad or user ad using slug**
+
 1. Press `Ctrl + i` to open plugin.
 2. Scroll down inside plugin and enter slug in field.
 3. Press `Jump to admin ad` or `Jump to user ad`.
 
 **Steps to jump change market**
+
 1. Press `Ctrl + i` to open plugin.
 2. Scroll down inside plugin and click on `Settings/Add Notes`.
 3. Select market from dropdown and save.
 
 **Steps to sync/refresh Category List**
+
 1. Press `Ctrl + i` to open plugin.
 2. Scroll down inside plugin and click on `Refresh List`.
 
