@@ -16,9 +16,9 @@ For Example:
 **Shortcuts**
 
 1. `Ctrl + i` to open Plugin.
-2. `Ctrl + a` to copy email id.
-3. `Ctrl + d` to copy primary phone number.
-4. `Ctrl + y` to submit review form.
+2. `Alt + c` to copy email id.
+3. `Alt + v` to copy primary phone number.
+4. `Alt + q` to submit review form.
 
 **Features**
 
